@@ -194,7 +194,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bootsnap (= 1.4.5)
+  bootsnap (>= 1.4.5)
   byebug (= 9.0.6)
   coffee-rails (= 5.0.0)
   jbuilder (= 2.7.0)
