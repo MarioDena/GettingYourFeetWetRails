@@ -1,24 +1,41 @@
-# README
+![img](https://img.shields.io/github/issues/MarioDena/Responsive-Design)
+![img2](https://img.shields.io/github/license/MarioDena/Responsive-Design)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Getting your feet wet
 
-Things you may want to cover:
+<p align="center">
+  <a href="https://github.com/MarioDena">
+    <img src="https://mariodena.github.io/blog/assets/img/sample/Logo.jpg" alt="Logo" width="80" height="80">
+  </a>
 
-* Ruby version
+  <h3 align="center">
+	 Getting your feet wet
+  </h3>
 
-* System dependencies
+  <p align="center">
+    Just the first chapter of the amazing Ruby on rails Tutorial
+   
+# Validations
 
-* Configuration
+-Rubocop
 
-* Database creation
+# Built With
 
-* Database initialization
 
-* How to run the test suite
+* `ruby` v2.6.5
+* `rails` v6.0.2+
+* `vscode` with _Ruby_ and _Rubocop_ extensions
+* Linux
 
-* Services (job queues, cache servers, search engines, etc.)
+# Author
 
-* Deployment instructions
+* [Mario E. Delgado](https://github.com/MarioDena)
 
-* ...
+# License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details 
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* [Microverse](https://www.microverse.org/)
+* [The Odin Project](https://www.theodinproject.com/)
